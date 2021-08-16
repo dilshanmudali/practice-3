@@ -13,3 +13,7 @@
 
 
 // console.log(addAll(2,5,6,7))
+
+
+// sum all primes
+
